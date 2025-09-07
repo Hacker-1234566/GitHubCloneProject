@@ -1,1 +1,1 @@
-Branching and conflict resolution practice
+Branching practice for ALX task

@@ -1,5 +1,1 @@
-
-
-Modification in main branch.
- Add README with task objective
-
+Branching and conflict resolution practice: create feature-greeting and README changes
